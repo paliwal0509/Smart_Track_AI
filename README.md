@@ -191,18 +191,6 @@ Example:
 ![Live Bus Map Screenshot](frontend/assets/images/sample_map.png)
 ![Admin Dashboard Screenshot](frontend/assets/images/sample_dashboard.png)
 ```
-
----
-
-## ✨ Author
-
-**👨‍💻 Sanket Kumar**  
-📧 [sanketsv11@gmail.com](mailto:sanketsv11@gmail.com)  
-🌐 [GitHub: Sanket-Sv](https://github.com/Sanket-Sv)  
-💼 [LinkedIn (optional)](https://linkedin.com/in/sanket-sv)
-
----
-
 ## 🧾 License
 
 This project is licensed under the **MIT License** – feel free to use and modify it with proper credit.
